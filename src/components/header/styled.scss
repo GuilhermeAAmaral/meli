@@ -1,0 +1,42 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    height: 70px;
+
+    background-color: #FFF159;
+
+    .container_logo {
+
+        img {
+            width: 50px;
+            margin-top: 7px;
+            margin-right: 20px;
+        }
+
+    }
+
+    .container_input {
+        
+        input {
+            width: 800px;
+            height: 35px;
+
+            padding-left:10px;
+            border: none;     
+        }
+
+        textarea:focus, input:focus, select:focus {
+            outline: 0;
+        }
+
+        button {
+            height: 35px; 
+            width: 30px;
+
+            border: none;
+            margin-top: 1px;
+        }
+    }
+}

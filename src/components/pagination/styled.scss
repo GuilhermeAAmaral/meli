@@ -1,0 +1,22 @@
+.pagination {
+
+    height: 35px;
+    margin: 30px;
+    text-align: center;
+
+    button {
+
+        border: none;
+        padding: 10px;
+        margin: 5px;
+
+        color: #333333;
+        font-size: 11pt;
+
+        transition: filter 0.2s;
+
+        &:hover {
+            filter: brightness(0.8);
+        }
+    }
+}
