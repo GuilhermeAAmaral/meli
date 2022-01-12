@@ -4,7 +4,7 @@ Título: MELI
 
 Descrição: Um website projetado para buscar produtos e listar seus detalhes.
 
-Funcionalidades: Busca, listagem e detalhes dos produtos. 
+Funcionalidades: Pesquisa, listagem e detalhes dos produtos. 
 
 Ferramentas, dependências e libs instaladas: React JS, Axios, React-Router-Dom, SASS.
 
